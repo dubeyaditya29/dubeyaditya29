@@ -22,4 +22,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5.5
-          THEME: merko
+          THEME: transparent
