@@ -31,7 +31,7 @@ aditya@github ~ ❯ cat focus.txt
   full-stack web · PWAs · microservices · clean UIs
 
 aditya@github ~ ❯ ./status.sh
-  ● building    ScrollTake — free browser teleprompter
+  ● building    Kyra - your personal AI nutritionist
   ○ learning    something new, always
 
 aditya@github ~ ❯ echo "$FUN_FACT"
